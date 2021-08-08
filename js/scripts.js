@@ -254,7 +254,7 @@ $(document).ready(function(){
         var a = $(this).find('input[name="account"]').val()
         var p = $(this).find('input[name="password"]').val()
 
-        if(a =="test" && b=="123"){
+        if(a =="test" && p=="123"){
             $('#LoginModal').modal('hide')
             $("#loginMenu").hide()
             $("#logoutMenu").show()
