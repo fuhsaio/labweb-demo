@@ -142,7 +142,7 @@ function memberMail(mail,auth){
     }
     return '<div class="card-footer text-center text-muted" \
             style="cursor:pointer" onClick="copyMail(this)">\
-            <img src="/assets/mail.svg">\
+            <img src="assets/mail.svg">\
             Send<a style="display:none">'+mail+'</a></div>'
 }
 
