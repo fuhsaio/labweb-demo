@@ -1,0 +1,341 @@
+/* 此檔引用順序在styles.css 之後 ， 因為要覆蓋掉原本的一些 css 設定 */
+
+
+/*#region 導覽列*/
+
+/*-- navbar --*/
+.navbar {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.nav-link {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color:transparent;
+}
+
+.navbar-default .navbar-brand {
+    padding-top: 0;
+    padding-bottom: 0;
+    color:#FFFEFE;
+    font-size: 35px;
+	font-weight: 700;
+	font-family: 'Dancing Script', cursive;
+}
+
+.navbar-default {
+	background-color: #07cbc9;
+    border-color:transparent;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+    font-size: 14px;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: #000;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: #fff;
+    background-color:#000;
+}
+
+.navbar-default .navbar-brand:hover {
+    color: #000;
+    background-color: transparent;
+}
+
+/*-- navbar 選單按鈕 --*/
+.navbar-default .navbar-toggler {
+    color: rgba(255, 255, 255, 0.55);
+    border-color:#DDDDDD;
+  }
+
+.navbar-default .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(255,255,255,255)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+  }
+
+/*-- resize 選單項目 --*/
+@media (max-width: 992px) {
+    .navbar-collapse{
+        margin-top: 10px;
+    }
+    .nav-link {
+        padding-top: 0.5rem;
+        padding-bottom: 0.5rem;
+    }
+}
+
+/*#endregion */
+
+
+/*#region 首頁幻燈片*/
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+}
+
+@media (max-width: 767px) {
+    .carousel-indicators {
+        margin-bottom: 0.1rem;
+    }
+}
+
+/*#endregion */
+
+
+/*#region section 共通物件樣式 */
+.sec h2{
+	color: #000;
+	font-size: 45px;
+    text-align: center;
+}
+
+.sec label.line {
+    background-color: #07cbc9;
+    display: block;
+    width: 40px;
+    height: 2px;
+    margin: 15px auto;
+}
+
+@media (max-width: 767px) {
+    .sec h2{
+        color: #000;
+        font-size: 30px;
+        text-align: center;
+    }
+}
+
+.sec-dark h2{
+	color: #FFFFFF;
+	font-size: 45px;
+    text-align: center;
+}
+
+.sec-dark label.line {
+    background-color: #07cbc9;
+    display: block;
+    width: 40px;
+    height: 2px;
+    margin: 15px auto;
+}
+
+@media (max-width: 767px) {
+    .sec-dark h2{
+        color: #FFFFFF;
+        font-size: 30px;
+        text-align: center;
+    }
+}
+
+/*#endregion */
+
+
+/*#region 關於我們(實驗室主持人) */
+.about-card {
+	border: 1px solid #C5C5C5;
+	padding: 25px 25px;
+    margin-top: 30px;
+	margin-bottom: 20px;
+	text-align: center;
+
+}
+
+.about-card h4{
+    font-weight: bold;
+}
+
+.about-card hr{
+    border: 1px solid #DDDEDE;
+}
+
+.about-card  a{
+	background-color:black;
+	padding:10px 15px;
+	color:white;
+	border:2px solid black;
+	margin-top: 30px;
+    display:inline-block;
+    text-decoration: none;
+}
+
+.about-card  a:hover{
+	color:black;
+	border:2px solid black;
+	background:transparent;
+}
+
+.about-card h6{
+    font-size: 15px;
+    color: #797979 ;
+}
+
+/*#endregion */
+
+
+/*#region 實驗室環境 */
+.env-card .card {
+    cursor: pointer;    
+    margin-bottom: 2rem;
+    margin-left: 0.2rem;
+    margin-right: 0.2rem;
+}
+
+.env-card .card-body {
+    background-color: #000;
+} 
+
+.env-card .card .inner{
+    overflow: hidden;
+}
+
+.env-card .card .inner img{
+    transition: all 0.5s ease;
+}
+
+.env-card .card .inner:hover img{
+    transform: scale(1.3);
+}
+
+@media (max-width: 767px) {
+    .env-card .card {
+        margin-bottom: 1.5rem;
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .env-card .card .card-body p{
+        font-size: 12px ;
+    }
+}
+
+/*#endregion */
+
+
+/*#region lab成員 */
+
+.mem-card .card-body{
+    text-align:center;
+    font-weight:bold;
+}
+
+.mem-card .card-body h5{
+    letter-spacing:2px;
+    margin-bottom:0px;
+    font-weight:bold;
+}
+
+.mem-card .card-body p{
+    font-weight:bold;
+}
+
+#member-search {
+    cursor:pointer;
+    text-align: center;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    border-width:3px;
+    border-style:solid;
+    border-color:#fff;
+    border-radius: 0.25rem !important;
+    height: 100%;
+    transition: transform 0.3s;
+}
+
+#member-search img{
+    filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(288deg) brightness(102%) contrast(102%);
+}
+
+#member-search:hover {
+    /*border-color:#07cbc9;*/
+    transform: scale(0.95);
+    transition: all .2s ease-in-out;
+}
+
+#member-search h5{
+    color: #fff;
+    letter-spacing: 1px;
+}
+
+@media (max-width: 576px) {
+    #member-search h5{
+        font-size: 18px ;
+    }
+    #member-search img{
+        width: 40px ;
+    }
+}
+
+#searchtable td:nth-child(5){
+    white-space: normal;
+}
+
+/*#endregion */
+
+
+/*#region 技術資源 */
+.resource-block {
+    padding: 30px 30px 5px 30px;
+    margin-bottom: 30px;
+
+}
+
+.resource-block h4 {
+    color: #B3B3B3;
+
+}
+
+.resource-block h5 {
+    color: #B3B3B3;
+}
+
+.resource-block .mt-1{
+    margin-bottom: 1.5rem;
+    
+}
+
+label.line-sm {
+    background-color: #07cbc9;
+    width: 50px;
+    height: 2px;
+    margin-bottom: 15px;
+}
+
+.res-btn, .res-btn2 {
+    border-width:2px;
+    border-style:solid;
+    border-color:#07cbc9;
+    padding: 8px 18px;
+    margin-right: 3px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    color:#07cbc9;
+    font-size: 15px;
+    text-decoration:none;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.res-btn:hover {
+    color: #fff;
+    border-color: #fff;
+}
+
+.res-btn2:hover{
+    color: #0a7070;
+    border-color: #0f9999;
+}
+
+/*#endregion */
+
+
+

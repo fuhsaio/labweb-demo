@@ -1,0 +1,78 @@
+[
+    {
+        "Id":"A11",
+        "description":"胡雅涵老師-期刊論文",
+        "paper":[
+            {
+                "Year":"2019",
+                "title":[   "Ya-Han Hu*, Yi-Lien Lee, Ming-Feng Kang, Pei-Ju Lee, Constructing Inpatient Pressure Injury Prediction Models Using Machine Learning Techniques, CIN: Computers, Informatics, Nursing, accepted, 2019. (SSCI)",
+                            "Jiann-Der Lee, Tsong-Hai Lee, Yen-Chu Huang, Meng Lee, Ya-Wen Kuo, Ya-Chi Huang, and Ya-Han Hu*, Prediction Model of Early Return to Hospital after Discharge Following Acute Ischemic Stroke, Current Neurovascular Research, 2019, 16, 1-11. (SCI)",
+                            "李珮如、胡雅涵*、李彥賢、吳俊霆，運用資料探勘技術預測分析持續互動性高之粉絲團：以臉書醫療健康粉絲團為例，電子商務學報，已接受。(TSSCI)",
+                            "Chih-Fong Tsai, Wei-Chao Lin, Ya-Han Hu*, and Guan-Ting Yao, Under-Sampling Class Imbalanced Datasets by Combining Clustering Analysis and Instance Selection, Information Sciences, 477 (2019) 47-54 (SCI; IF=4.305; 12/148 in COMPUTER SCIENCE, INFORMATION SYSTEMS)]"
+                ]
+            },
+            {
+                "Year":"2018",
+                "title":[   "Ya-Han Hu*, Wen-Ming Shiau, Sheng-Pao Shih, Cho-Ju Chen, (2018) Considering online consumer reviews to predict movie box-office performance between the years 2009 and 2014 in the US, The Electronic Library, 36 (6) (2018) 1010-1026. (SSCI)",
+                            "Ya-Han Hu*, Chun-Tien Tai, Chih-Fong Tsai, and Min-Wei Huang, Improvement of Adequate Digoxin Dosage: An Application of Machine Learning Approach, Journal of Healthcare Engineering, vol. 2018, Article ID 3948245, 9 pages, 2018. (SCI)",
+                            "Chia-Mei Chang, Jeng-Hsiu Hung, Ya-Han Hu*, Pei-Ju Lee, Cheng-Che Shen*, Prediction of Preoperative Blood Preparation for Orthopedic Surgery Patients: A Supervised Learning Approach, Applied Science, 8(9), 1559, 2018, https://doi.org/10.3390/app8091559. (SCI)",
+                            "Chia-Hui Liu, Cheng-Jyun Lin, Ya-Han Hu*, Zi-Hung You, Predicting the Failure of Dental Implants Using Supervised Learning Techniques, Applied Science, 8(5), 698, 2018, doi:10.3390/app8050698. (SCI)",
+                            "Cheng-Che Shen, Li-Yu Hu, Shih-Jen Tsai, Albert C. Yang, Ya-Han Hu*, Risk Stratification for the Early Diagnosis of Borderline Personality Disorder Using Psychiatric Comorbidities, Early Intervention in Psychiatry, 12 (4) (2018) 605-612. (SSCI)",
+                            "Mao-Te Chuang, Ya-Han Hu*, Chia-Lun Lo, Predicting the Prolonged Length of Stay of General Surgery Patients: A Supervised Learning Approach, International Transactions in Operational Research, 25 (1) (2018) 75-90. (MOST 104-2410-H-194-070-MY3) (SSCI)",
+                            "Pei-Ju Lee, Ya-Han Hu*, Kuan-Ting Lu, Assessing the helpfulness of online hotel reviews: A classification-based approach, Telematics and Informatics, 35 (2), (2018), 436-445. (MOST 104-2410-H-194-070-MY3) (SSCI)",
+                            "Sheng-Feng Sung, Kuanchin Chen, Darren Philbert Wu, Ling-Chien Hung, Yu-Hsiang Su, Ya-Han Hu*, Applying natural language processing techniques to develop a task-specific EMR interface for timely stroke thrombolysis: A feasibility study, International Journal of Medical Informatics, 112 (2018) 149-157. (MOST 105-2314-B-705-001) (SCI)"]
+            },
+            {
+                "Year":"2017",
+                "title":[   "Ya-Han Hu*, Yen-Liang Chen, Hui-Ling Chou, Opinion mining from online hotel reviews - A text summarization approach, Information Processing & Management, 53 (2) (2017) 436-449. (SSCI)",
+                            " Cheng-Yang Hsieh, Huey-Juan Lin, Ya-Han Hu*, Sheng-Feng Sung, Stroke severity may predict causes of readmission within one year in patients with first ischemic stroke event, Journal of the Neurological Sciences, 372 (2017) 21-27. (SCI)",
+                            " Ya-Han Hu, Kuanchin Chen, Pei-Ju Lee, The Effect of User Controllable Filters on the Prediction of Online Hotel Reviews, Information & Management, 54 (6) (2017) 728-744. (MOST 104-2410-H-194-070-MY3) (SSCI)",
+                            " Lin, W.-C., Tsai, C.-F.*, Ya-Han Hu, and Jing-Shang Jhang, Clustering-Based Undersampling for Class-imbalanced Data. Information Sciences, 409-410 (2017) 17-26. (SCI; IF=3.364; 8/144 in Computer Science, Information Systems)",
+                            " Li-Chen Cheng, Ya-Han Hu*, Shr-Han Chiou, Applying the temporal abstraction technique to the prediction of chronic kidney disease progression, Journal of Medical Systems, 41 (2017) 85. (SCI)",
+                            " Ya-Han Hu, Chun-Tien Tai, Solomon Chih-Cheng Chen, Hai-Wei Lee, Sheng-Feng Sung*, Predicting Return Visits to the Emergency Department for Pediatric Patients: Applying Supervised Learning Techniques to the Taiwan National Health Insurance Research Database, Computer Methods and Programs in Biomedicine, 144 (2017) 105-112. (SCI)",
+                            " Ling-Chien Hung, Sheng-Feng Sung, Cheng-Yang Hsieh, Ya-Han Hu, Huey-Juan Lin, Yu-Wei Chen, Yea-Huei Kao Yang, Sue-Jane Lin. Validation of a Novel Claims-Based Stroke Severity Index in Patients with Intracerebral Hemorrhage, Journal of Epidemiology, 27 (1) (2017) 24-29. (SCI)",
+                            " Fan Wu, Ya-Han Hu*, Ping-Rong Wang, Developing a Novel Recommender Network-Based Ranking Mechanism for Library Book Acquisition, The Electronic Library, 35 (1) (2017) 50-68. (MOST 104-2410-H-194-070-MY3) (SSCI)",
+                            " Cheng-Che Shen, Li-Yu Hu, Ya-Han Hu*, Comorbidity study of borderline personality disorder: applying association rule mining to the Taiwan national health insurance research database, BMC Medical Informatics and Decision Making, 17 (1) (2017) 8. (SCI/SSCI)",
+                            " Ke, S.-W., Lin, W.-C.*, Tsai, C.-F., and Ya-Han Hu (2017) Soft Estimation by Hierarchical Classification and Regression, 234 (2017/4) 27-37. Neurocomputing. (SCI)"]
+            },
+            {
+                "Year":"2016",
+                "title":[   "Ya-Han Hu*, Kuanchin Chen, Predicting hotel review helpfulness: the impact of review visibility, and interaction between hotel stars and review ratings, International Journal of Information Management, 36 (6) (2016) 929-944. (SSCI; IF=2.692; 8/86 in INFORMATION SCIENCE & LIBRARY SCIENCE)",
+                            " Ya-Han Hu*, Kuanchin Chen, Pei-Ju Lee, The Effect of User Controllable Filters on the Prediction of Online Hotel Reviews, Information & Management, accepted. (SSCI)",
+                            " Cheng-Che Shen, Li-Yu Hu, Shih-Jen Tsai, Albert C. Yang, Ya-Han Hu*, Risk Stratification for the Early Diagnosis of Borderline Personality Disorder Using Psychiatric Comorbidities, Early Intervention in Psychiatry, accepted. (SSCI)",
+                            " Fan Wu, Ya-Han Hu*, Ping-Rong Wang, Developing a Novel Recommender Network-Based Ranking Mechanism for Library Book Acquisition, The Electronic Library, (2016), accepted. (SSCI)",
+                            " Ling-Chien Hung, Sheng-Feng Sung, Cheng-Yang Hsieh, Ya-Han Hu, Huey-Juan Lin, Yu-Wei Chen, Yea-Huei Kao Yang, Sue-Jane Lin. Validation of a Novel Claims-Based Stroke Severity Index in Patients with Intracerebral Hemorrhage, Journal of Epidemiology, accepted. (SCI)",
+                            " Mao-Te Chuang, Ya-Han Hu, Chia-Lun Lo*, Predicting the Prolonged Length of Stay of General Surgery Patients: A Supervised Learning Approach, International Transactions in Operational Research, accepted. (SSCI)",
+                            " Cheng-Yang Hsieh, Huey-Juan Lin, Ya-Han Hu, Sheng-Feng Sung, Stroke severity may predict causes of readmission within one year in patients with first ischemic stroke event, Journal of the Neurological Sciences, 372 (2017) 21-27. (SCI)",
+                            " Sung, S. F., Hsieh, C. Y., Lin, H. J., Chen, Y. W., Chen, C. H., Kao Yang, Y. H., & Ya-Han Hu*. Validity of a stroke severity index for administrative claims data research: a retrospective cohort study. BMC Health Services Research, 16:509. (SCI)",
+                            " 胡雅涵、翁政雄*、楊亞澄，運用關聯規則及改變探勘技術於防火牆政策規則優化，資訊管理學報，23 (3) (2016) 277-304。(2016) (TSSCI)",
+                            " Shen, C.-C., Ya-Han Hu, Lin, W.-C., Tsai, C.-F.*, and Ke, S.-W. Research Impacts of General and Funded Papers: A Citation Analysis of Two ACM International Conference Proceeding Series. Online Information Review, 40 (4) (2016) 472-480. (SSCI)",
+                            " Ti Lu, Ya-Han Hu*, Chih-Fong Tsai, Shih-Ping Liu, Pei-Ling Chen, Applying Machine Learning Techniques to the Identification of Late-Onset Hypogonadism in Elderly Men, SpringerPlus, 5 (2016) 729. (SCI)",
+                            " Sheng-Feng Sung, Solomon Chih-Cheng Chen, Cheng-Yang Hsieh, Chung-Yi Li, Edward Chia-Cheng Lai, Ya-Han Hu*, A comparison of stroke severity proxy measures for claims data research: A population-based cohort study, Pharmacoepidemiology and Drug Safety, 25 (2016) 438-443. (SCI)",
+                            " Li-Yu Hu, Ya-Han Hu, Chih-Fong Tsai, Jian-Shian Wang, Min-Wei Huang*, Building an associative classifier with multiple minimum supports, SpringerPlus, 5 (2016) 528. (SCI)"]
+            }
+        ]
+    },
+    {
+        "Id":"A12",
+        "description":"胡雅涵老師-會議論文",
+        "paper":[
+            {
+                "Year":"2017",
+                "title":[   "Yen-Hsien Lee, Ya-Han Hu, WanChih Hsieh and Pei-Ju Lee, Subject-relevant Document Recommendation: A Reference Topic-Based Approach, The 21st Pacific Asia Conference on Information Systems (PACIS 2017), Langkawi, 2017.",
+                            "Tsai, C.-F., Ya-Han Hu, Lin, W.-C., and Wang, M.-C. (2017) Early versus Late Dimensionality Reduction of Bag-of-Words Feature Representation for Image Classification. International Conference on Bioinformatics Research and Applications, Barcelona, Spain, Dec. 8-10."
+                        ]
+            },
+            {
+                "Year":"2016",
+                "title":[   "Ya-Han Hu, Pei-Ju Lee, Kuanchin Chen, J. Michael Tarn and Duyen-Vi Dang, Hotel Recommendation System Based on Review Sentiment and Contextual Information: A Collaborative Filtering Approach, The 20th Pacific Asia Conference on Information Systems (PACIS 2016), Chiayi, Taiwan, 2016. (MOST 104-2410-H-194-070-MY3)",
+                            "Chih-Fong Tsai, Wei-Chao Lin, Ya-Han Hu, The Effect of Region Segmentation on Object Categorization, IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC2016), Hong Kong, China, 2016.",
+                            "Yi-Lien Lee, Ya-Han Hu, Connected Health Promoting Activities With the LINE App, 24th International Conference on Health Promoting Hospitals and Health Services, New Haven, Connecticut, USA, 2016."
+                        ]
+            }
+        ]
+
+    }
+
+
+]

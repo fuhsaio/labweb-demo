@@ -1,0 +1,24 @@
+[
+    {
+        "Id":"B11",
+        "description":"",
+        "resource":[
+            {
+                "name":"Science Direct",
+                "link":"http://www.sciencedirect.com/"
+            },
+            {
+                "name":"IEEE Xplore",
+                "link":"http://ieeexplore.ieee.org/Xplore/home.jsp?reload=true"
+            },
+            {
+                "name":"台灣學術倫理教育中心",
+                "link":"https://ethics.nctu.edu.tw/"
+            },
+            {
+                "name":"Google 學術搜尋",
+                "link":"https://scholar.google.com.tw/"
+            }
+        ]
+    }
+]
