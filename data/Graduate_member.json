@@ -1,92 +1,92 @@
 {
   "data": [
     [
-      "往小明",
+      "王小明",
       "108",
       "資管",
-      "C++,PHP,PHP",
+      "C++,PHP",
       "考量文化差異下之線上旅遊平台評論有用性預測",
-      "a123456@gmail.com"
+      "test111@gmail.com"
     ],
     [
-      "陳小華",
+      "小華",
       "109",
       "醫資",
-      "C++,PHP",
+      "SAS,R",
       "運用主訴進行語音及文字探勘評估病人之憂鬱程度及自殺風險",
-      "khlkjwrzvcet435@gmail.com"
+      "test222@gmail.com"
+    ],
+    [
+      "蔣小美",
+      "108",
+      "資管",
+      "php,html,python",
+      "發展以文獻強度為基礎之個人化推薦系統",
+      "test333@gmail.com"
+    ],
+    [
+      "梁小辰",
+      "108",
+      "資管",
+      "C++,Java,Android",
+      "運用電子病例建構缺血性腦中風患者OCSP臨床分類方法預測模型",
+      "test444@gmail.com"
     ],
     [
       "往小明",
       "108",
       "資管",
-      "C++,PHP,PHP",
+      "Java,SQL,VB",
+      "運用混和式方法建立個人化食譜推薦系統",
+      "test555@gmail.com"
+    ],
+    [
+      "和小甄",
+      "108",
+      "醫資",
+      "SQL,Java",
+      "建構腦中風病患癒後的預測模型",
+      "test666@gmail.com"
+    ],
+    [
+      "郭小其",
+      "108",
+      "資管",
+      "Python,java",
+      "運用社群資料進行網路霸凌之研究",
+      "test777@gmail.com"
+    ],
+    [
+      "孫小岳",
+      "108",
+      "資管",
+      "HTML,CSS",
       "考量文化差異下之線上旅遊平台評論有用性預測",
-      "a123456@gmail.com"
+      "test888@gmail.com"
     ],
     [
-      "往小明",
+      "阿偉",
       "108",
       "資管",
-      "C++,PHP,PHP",
-      "考量文化差異下之線上旅遊平台評論有用性預測",
-      "a123456@gmail.com"
-    ],
-    [
-      "往小明",
-      "108",
-      "資管",
-      "C++,PHP,PHP",
-      "考量文化差異下之線上旅遊平台評論有用性預測",
-      "a123456@gmail.com"
-    ],
-    [
-      "往小明",
-      "108",
-      "資管",
-      "C++,PHP,PHP",
-      "考量文化差異下之線上旅遊平台評論有用性預測",
-      "a123456@gmail.com"
-    ],
-    [
-      "往小明",
-      "108",
-      "資管",
-      "C++,PHP,PHP",
-      "考量文化差異下之線上旅遊平台評論有用性預測",
-      "a123456@gmail.com"
-    ],
-    [
-      "往小明",
-      "108",
-      "資管",
-      "C++,PHP,PHP",
-      "考量文化差異下之線上旅遊平台評論有用性預測",
-      "a123456@gmail.com"
-    ],
-    [
-      "往小明",
-      "108",
-      "資管",
-      "C++,PHP,PHP",
+      "R,Java",
       "Developing a Hybrid Collaborative Filtering-based Hotel Recommender System Based on Review Sentiment and Context Information",
-      "a1234567890abcd@gmail.com"
+      "test999@gmail.com"
     ],
     [
-      "往小明",
+      "阿榮",
       "108",
       "資管",
-      "C++,PHP,PHP",
-      "考量文化差異下之線上旅遊平台評論有用性預測",
-      "a123456@gmail.com"
+      "Java,SQL,Unity",
+      "利用文字探勘進行電子病歷比對之醫療決策支援系統",
+      "test000@gmail.com"
     ],
     [
-      "往小明",
+      "阿彥",
       "108",
       "資管",
-      "C++,PHP,PHP",
-      "考量文化差異下之線上旅遊平台評論有用性預測",
-      "a123456@gmail.com"
+      "MATLAB,PHP,Wordpress",
+      "以文字探勘分析探討食物對成人死亡風險的影響",
+      "test11111@gmail.com"
     ]
   ]
 }
