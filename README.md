@@ -1,7 +1,5 @@
 # labweb-demo
-> 實驗室網站更版 demo  
-> 私人信箱資訊已更改為測試資料  
-> 帳號 test 密碼 123 ，為該版簡易登入測試用  
+實驗室網站重建版本  
+帳號 test 密碼 123，為簡易登入測試用 - [Github Page](https://fuhsiao.github.io/labweb-demo/)  
 
-# github page
-[網站演示](https://fuhsiao.github.io/labweb-demo/)
+實際介面請參考 - [DSBDA 實驗室網站](http://dsbda.mis.ccu.edu.tw/)
